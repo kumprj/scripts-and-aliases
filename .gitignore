@@ -1,0 +1,6 @@
+# Local-only files: secrets, personal notes, screenshots
+gmail_secrets.txt
+deletion-scripts.txt
+notes-and-queries.md
+images/
+.DS_Store
